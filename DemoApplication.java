@@ -10,7 +10,7 @@ public class DemoApplication {
 		System.out.println("Indrajit Yadav");
 		DemoApplication demo = new DemoApplication();
 		if(demo == null){
-			System.out.println("Object is null")
+			System.out.println("Object is null");
 		}
 		SpringApplication.run(DemoApplication.class, args);
 	}
